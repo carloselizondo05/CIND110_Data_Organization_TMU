@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BotanicalConsortium>
+  <Families>
+    <Family>
+      <familyId>FAM01</familyId>
+      <familyName>Asteraceae</familyName>
+      <description>The Asteraceae family, commonly known as the aster, daisy, or composite family, is a very large and widespread group of flowering plants with over 32,000 species.</description>
+    </Family>
+    <Family>
+      <familyId>FAM02</familyId>
+      <familyName>Rosaceae</familyName>
+      <description>Rosaceae is a medium-sized family of flowering plants, including about 4,828 species in 91 genera, characterized by showy flowers with five petals and numerous stamens.</description>
+    </Family>
+    <Family>
+      <familyId>FAM03</familyId>
+      <familyName>Liliaceae</familyName>
+      <description>Liliaceae consists of monocotyledonous, perennial, herbaceous, often bulbous geophytes with large flowers and are traditionally used extensively in decorative gardening and floral arrangements worldwide.</description>
+    </Family>
+    <Family>
+      <familyId>FAM04</familyId>
+      <familyName>Orchidaceae</familyName>
+      <description>Orchidaceae is a diverse and widespread family of flowering plants, with blooms that are often colorful and fragrant, representing one of the two largest families of flowering plants.</description>
+    </Family>
+    <Family>
+      <familyId>FAM05</familyId>
+      <familyName>Iridaceae</familyName>
+      <description>Iridaceae is a family of plants in the order Asparagales, taking its name from the Iris genus, containing roughly 66 genera and totaling over 2,244 species globally.</description>
+    </Family>
+    <Family>
+      <familyId>FAM06</familyId>
+      <familyName>Lamiaceae</familyName>
+      <description>Lamiaceae or Labiatae is a family of flowering plants commonly known as the mint or deadnettle or sage family, containing many widely used culinary and medicinal herbs.</description>
+    </Family>
+    <Family>
+      <familyId>FAM07</familyId>
+      <familyName>Ranunculaceae</familyName>
+      <description>Ranunculaceae, the buttercup or crowfoot family, is a family of over 2,000 known species of flowering plants distributed worldwide, especially in temperate and cold regions of the Northern Hemisphere.</description>
+    </Family>
+    <Family>
+      <familyId>FAM08</familyId>
+      <familyName>Papaveraceae</familyName>
+      <description>Papaveraceae is an economically important family of about 44 genera and 770 species of flowering plants in the order Ranunculales, often known colloquially as the poppy family.</description>
+    </Family>
+    <Family>
+      <familyId>FAM09</familyId>
+      <familyName>Boraginaceae</familyName>
+      <description>Boraginaceae is the borage or forget-me-not family, including a variety of shrubs, trees, and herbs totaling about 2,000 species in 146 genera found across the globe.</description>
+    </Family>
+    <Family>
+      <familyId>FAM10</familyId>
+      <familyName>Fabaceae</familyName>
+      <description>Fabaceae or Leguminosae, commonly known as the legume, pea, or bean family, is a large and economically important family of flowering plants with distinct fruit structures called legumes.</description>
+    </Family>
+  </Families>
+
+  <Flowers>
+    <Flower>
+      <flowerId>FL01</flowerId>
+      <name>Sun Flare Daisy</name>
+      <familyId>FAM01</familyId>
+      <seasons>Spring, Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL02</flowerId>
+      <name>Midnight Rose</name>
+      <familyId>FAM02</familyId>
+      <seasons>Summer, Autumn</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL03</flowerId>
+      <name>Tiger Lily</name>
+      <familyId>FAM03</familyId>
+      <seasons>Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL04</flowerId>
+      <name>Cattleya Orchid</name>
+      <familyId>FAM04</familyId>
+      <seasons>Winter, Spring</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL05</flowerId>
+      <name>Dutch Iris</name>
+      <familyId>FAM05</familyId>
+      <seasons>Spring</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL06</flowerId>
+      <name>Lavender Mist</name>
+      <familyId>FAM06</familyId>
+      <seasons>Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL07</flowerId>
+      <name>Golden Buttercup</name>
+      <familyId>FAM07</familyId>
+      <seasons>Spring, Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL08</flowerId>
+      <name>Oriental Poppy</name>
+      <familyId>FAM08</familyId>
+      <seasons>Spring</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL09</flowerId>
+      <name>Alpine Forget-Me-Not</name> <familyId>FAM09</familyId>
+      <seasons>Spring</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL10</flowerId>
+      <name>Sweet Pea</name>
+      <familyId>FAM10</familyId>
+      <seasons>Spring, Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL11</flowerId>
+      <name>English Daisy</name>
+      <familyId>FAM01</familyId>
+      <seasons>Spring</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL12</flowerId>
+      <name>Wild Bramble</name>
+      <familyId>FAM02</familyId>
+      <seasons>Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL13</flowerId>
+      <name>Blue Moon Orchid</name> <familyId>FAM04</familyId>
+      <seasons>Winter</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL14</flowerId>
+      <name>Spearmint Bloom</name>
+      <familyId>FAM06</familyId>
+      <seasons>Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL15</flowerId>
+      <name>White Tulip</name>
+      <familyId>FAM03</familyId>
+      <seasons>Spring</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL16</flowerId>
+      <name>Anemone</name>
+      <familyId>FAM07</familyId>
+      <seasons>Spring, Autumn</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL17</flowerId>
+      <name>Siberian Iris</name>
+      <familyId>FAM05</familyId>
+      <seasons>Spring, Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL18</flowerId>
+      <name>Red Poppy</name>
+      <familyId>FAM08</familyId>
+      <seasons>Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL19</flowerId>
+      <name>Himalayan Blue Poppy</name>
+      <familyId>FAM08</familyId>
+      <seasons>Summer</seasons>
+    </Flower>
+    <Flower>
+      <flowerId>FL20</flowerId>
+      <name>Desert Rose</name>
+      <familyId>FAM02</familyId>
+      <seasons>Spring, Summer, Winter</seasons>
+    </Flower>
+  </Flowers>
+
+  <Shops>
+    <Shop>
+      <shopId>S01</shopId>
+      <name>Bloom &amp; Grow</name>
+      <city>London</city>
+    </Shop>
+    <Shop>
+      <shopId>S02</shopId>
+      <name>The Petal Post</name>
+      <city>New York</city>
+    </Shop>
+    <Shop>
+      <shopId>S03</shopId>
+      <name>Flora Express</name>
+      <city>Tokyo</city>
+    </Shop>
+    <Shop>
+      <shopId>S04</shopId>
+      <name>Green Thumb</name>
+      <city>Paris</city>
+    </Shop>
+    <Shop>
+      <shopId>S05</shopId>
+      <name>Gardenia Hub</name>
+      <city>Sydney</city>
+    </Shop>
+  </Shops>
+
+  <Inventory>
+    <Row><shopId>S01</shopId><flowerId>FL01</flowerId><stock>50</stock></Row>
+    <Row><shopId>S01</shopId><flowerId>FL02</flowerId><stock>30</stock></Row>
+    <Row><shopId>S01</shopId><flowerId>FL05</flowerId><stock>20</stock></Row>
+    <Row><shopId>S01</shopId><flowerId>FL09</flowerId><stock>15</stock></Row>
+    <Row><shopId>S02</shopId><flowerId>FL03</flowerId><stock>40</stock></Row>
+    <Row><shopId>S02</shopId><flowerId>FL04</flowerId><stock>10</stock></Row>
+    <Row><shopId>S02</shopId><flowerId>FL06</flowerId><stock>60</stock></Row>
+    <Row><shopId>S02</shopId><flowerId>FL11</flowerId><stock>25</stock></Row>
+    <Row><shopId>S03</shopId><flowerId>FL07</flowerId><stock>100</stock></Row>
+    <Row><shopId>S03</shopId><flowerId>FL08</flowerId><stock>45</stock></Row>
+    <Row><shopId>S03</shopId><flowerId>FL10</flowerId><stock>35</stock></Row>
+    <Row><shopId>S03</shopId><flowerId>FL12</flowerId><stock>20</stock></Row>
+    <Row><shopId>S04</shopId><flowerId>FL14</flowerId><stock>55</stock></Row>
+    <Row><shopId>S04</shopId><flowerId>FL15</flowerId><stock>80</stock></Row>
+    <Row><shopId>S04</shopId><flowerId>FL16</flowerId><stock>12</stock></Row>
+    <Row><shopId>S04</shopId><flowerId>FL17</flowerId><stock>40</stock></Row>
+    <Row><shopId>S05</shopId><flowerId>FL18</flowerId><stock>90</stock></Row>
+    <Row><shopId>S05</shopId><flowerId>FL19</flowerId><stock>30</stock></Row>
+    <Row><shopId>S05</shopId><flowerId>FL20</flowerId><stock>15</stock></Row>
+    <Row><shopId>S05</shopId><flowerId>FL01</flowerId><stock>20</stock></Row>
+  </Inventory>
+
+  <Customers>
+    <Customer><customerId>C01</customerId><name>Alice Smith</name><city>London</city></Customer>
+    <Customer><customerId>C02</customerId><name>Bob Jones</name><city>London</city></Customer>
+    <Customer><customerId>C03</customerId><name>Charlie Brown</name><city>New York</city></Customer>
+    <Customer><customerId>C04</customerId><name>Diana Prince</name><city>New York</city></Customer>
+    <Customer><customerId>C05</customerId><name>Edward Norton</name><city>Tokyo</city></Customer>
+    <Customer><customerId>C06</customerId><name>Fiona Gallagher</name><city>Tokyo</city></Customer>
+    <Customer><customerId>C07</customerId><name>George Miller</name><city>Paris</city></Customer>
+    <Customer><customerId>C08</customerId><name>Hannah Abbott</name><city>Paris</city></Customer>
+    <Customer><customerId>C09</customerId><name>Ian Wright</name><city>Sydney</city></Customer>
+    <Customer><customerId>C10</customerId><name>Julia Roberts</name><city>Sydney</city></Customer>
+    <Customer><customerId>C11</customerId><name>Kevin Hart</name><city>Chicago</city></Customer>
+    <Customer><customerId>C12</customerId><name>Laura Palmer</name><city>Seattle</city></Customer>
+  </Customers>
+</BotanicalConsortium>

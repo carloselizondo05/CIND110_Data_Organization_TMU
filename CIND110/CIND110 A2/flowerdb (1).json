@@ -1,0 +1,379 @@
+{
+    "BotanicalConsortium": {
+        "Families": {
+            "Family": [
+                {
+                    "familyId": "FAM01",
+                    "familyName": "Asteraceae",
+                    "description": "The Asteraceae family, commonly known as the aster, daisy, or composite family, is a very large and widespread group of flowering plants with over 32,000 species."
+                },
+                {
+                    "familyId": "FAM02",
+                    "familyName": "Rosaceae",
+                    "description": "Rosaceae is a medium-sized family of flowering plants, including about 4,828 species in 91 genera, characterized by showy flowers with five petals and numerous stamens."
+                },
+                {
+                    "familyId": "FAM03",
+                    "familyName": "Liliaceae",
+                    "description": "Liliaceae consists of monocotyledonous, perennial, herbaceous, often bulbous geophytes with large flowers and are traditionally used extensively in decorative gardening and floral arrangements worldwide."
+                },
+                {
+                    "familyId": "FAM04",
+                    "familyName": "Orchidaceae",
+                    "description": "Orchidaceae is a diverse and widespread family of flowering plants, with blooms that are often colorful and fragrant, representing one of the two largest families of flowering plants."
+                },
+                {
+                    "familyId": "FAM05",
+                    "familyName": "Iridaceae",
+                    "description": "Iridaceae is a family of plants in the order Asparagales, taking its name from the Iris genus, containing roughly 66 genera and totaling over 2,244 species globally."
+                },
+                {
+                    "familyId": "FAM06",
+                    "familyName": "Lamiaceae",
+                    "description": "Lamiaceae or Labiatae is a family of flowering plants commonly known as the mint or deadnettle or sage family, containing many widely used culinary and medicinal herbs."
+                },
+                {
+                    "familyId": "FAM07",
+                    "familyName": "Ranunculaceae",
+                    "description": "Ranunculaceae, the buttercup or crowfoot family, is a family of over 2,000 known species of flowering plants distributed worldwide, especially in temperate and cold regions of the Northern Hemisphere."
+                },
+                {
+                    "familyId": "FAM08",
+                    "familyName": "Papaveraceae",
+                    "description": "Papaveraceae is an economically important family of about 44 genera and 770 species of flowering plants in the order Ranunculales, often known colloquially as the poppy family."
+                },
+                {
+                    "familyId": "FAM09",
+                    "familyName": "Boraginaceae",
+                    "description": "Boraginaceae is the borage or forget-me-not family, including a variety of shrubs, trees, and herbs totaling about 2,000 species in 146 genera found across the globe."
+                },
+                {
+                    "familyId": "FAM10",
+                    "familyName": "Fabaceae",
+                    "description": "Fabaceae or Leguminosae, commonly known as the legume, pea, or bean family, is a large and economically important family of flowering plants with distinct fruit structures called legumes."
+                }
+            ]
+        },
+        "Flowers": {
+            "Flower": [
+                {
+                    "flowerId": "FL01",
+                    "name": "Sun Flare Daisy",
+                    "familyId": "FAM01",
+                    "seasons": "Spring, Summer"
+                },
+                {
+                    "flowerId": "FL02",
+                    "name": "Midnight Rose",
+                    "familyId": "FAM02",
+                    "seasons": "Summer, Autumn"
+                },
+                {
+                    "flowerId": "FL03",
+                    "name": "Tiger Lily",
+                    "familyId": "FAM03",
+                    "seasons": "Summer"
+                },
+                {
+                    "flowerId": "FL04",
+                    "name": "Cattleya Orchid",
+                    "familyId": "FAM04",
+                    "seasons": "Winter, Spring"
+                },
+                {
+                    "flowerId": "FL05",
+                    "name": "Dutch Iris",
+                    "familyId": "FAM05",
+                    "seasons": "Spring"
+                },
+                {
+                    "flowerId": "FL06",
+                    "name": "Lavender Mist",
+                    "familyId": "FAM06",
+                    "seasons": "Summer"
+                },
+                {
+                    "flowerId": "FL07",
+                    "name": "Golden Buttercup",
+                    "familyId": "FAM07",
+                    "seasons": "Spring, Summer"
+                },
+                {
+                    "flowerId": "FL08",
+                    "name": "Oriental Poppy",
+                    "familyId": "FAM08",
+                    "seasons": "Spring"
+                },
+                {
+                    "flowerId": "FL09",
+                    "name": "Alpine Forget-Me-Not",
+                    "familyId": "FAM09",
+                    "seasons": "Spring"
+                },
+                {
+                    "flowerId": "FL10",
+                    "name": "Sweet Pea",
+                    "familyId": "FAM10",
+                    "seasons": "Spring, Summer"
+                },
+                {
+                    "flowerId": "FL11",
+                    "name": "English Daisy",
+                    "familyId": "FAM01",
+                    "seasons": "Spring"
+                },
+                {
+                    "flowerId": "FL12",
+                    "name": "Wild Bramble",
+                    "familyId": "FAM02",
+                    "seasons": "Summer"
+                },
+                {
+                    "flowerId": "FL13",
+                    "name": "Blue Moon Orchid",
+                    "familyId": "FAM04",
+                    "seasons": "Winter"
+                },
+                {
+                    "flowerId": "FL14",
+                    "name": "Spearmint Bloom",
+                    "familyId": "FAM06",
+                    "seasons": "Summer"
+                },
+                {
+                    "flowerId": "FL15",
+                    "name": "White Tulip",
+                    "familyId": "FAM03",
+                    "seasons": "Spring"
+                },
+                {
+                    "flowerId": "FL16",
+                    "name": "Anemone",
+                    "familyId": "FAM07",
+                    "seasons": "Spring, Autumn"
+                },
+                {
+                    "flowerId": "FL17",
+                    "name": "Siberian Iris",
+                    "familyId": "FAM05",
+                    "seasons": "Spring, Summer"
+                },
+                {
+                    "flowerId": "FL18",
+                    "name": "Red Poppy",
+                    "familyId": "FAM08",
+                    "seasons": "Summer"
+                },
+                {
+                    "flowerId": "FL19",
+                    "name": "Himalayan Blue Poppy",
+                    "familyId": "FAM08",
+                    "seasons": "Summer"
+                },
+                {
+                    "flowerId": "FL20",
+                    "name": "Desert Rose",
+                    "familyId": "FAM02",
+                    "seasons": "Spring, Summer, Winter"
+                }
+            ]
+        },
+        "Shops": {
+            "Shop": [
+                {
+                    "shopId": "S01",
+                    "name": "Bloom & Grow",
+                    "city": "London"
+                },
+                {
+                    "shopId": "S02",
+                    "name": "The Petal Post",
+                    "city": "New York"
+                },
+                {
+                    "shopId": "S03",
+                    "name": "Flora Express",
+                    "city": "Tokyo"
+                },
+                {
+                    "shopId": "S04",
+                    "name": "Green Thumb",
+                    "city": "Paris"
+                },
+                {
+                    "shopId": "S05",
+                    "name": "Gardenia Hub",
+                    "city": "Sydney"
+                }
+            ]
+        },
+        "Inventory": {
+            "Row": [
+                {
+                    "shopId": "S01",
+                    "flowerId": "FL01",
+                    "stock": "50"
+                },
+                {
+                    "shopId": "S01",
+                    "flowerId": "FL02",
+                    "stock": "30"
+                },
+                {
+                    "shopId": "S01",
+                    "flowerId": "FL05",
+                    "stock": "20"
+                },
+                {
+                    "shopId": "S01",
+                    "flowerId": "FL09",
+                    "stock": "15"
+                },
+                {
+                    "shopId": "S02",
+                    "flowerId": "FL03",
+                    "stock": "40"
+                },
+                {
+                    "shopId": "S02",
+                    "flowerId": "FL04",
+                    "stock": "10"
+                },
+                {
+                    "shopId": "S02",
+                    "flowerId": "FL06",
+                    "stock": "60"
+                },
+                {
+                    "shopId": "S02",
+                    "flowerId": "FL11",
+                    "stock": "25"
+                },
+                {
+                    "shopId": "S03",
+                    "flowerId": "FL07",
+                    "stock": "100"
+                },
+                {
+                    "shopId": "S03",
+                    "flowerId": "FL08",
+                    "stock": "45"
+                },
+                {
+                    "shopId": "S03",
+                    "flowerId": "FL10",
+                    "stock": "35"
+                },
+                {
+                    "shopId": "S03",
+                    "flowerId": "FL12",
+                    "stock": "20"
+                },
+                {
+                    "shopId": "S04",
+                    "flowerId": "FL14",
+                    "stock": "55"
+                },
+                {
+                    "shopId": "S04",
+                    "flowerId": "FL15",
+                    "stock": "80"
+                },
+                {
+                    "shopId": "S04",
+                    "flowerId": "FL16",
+                    "stock": "12"
+                },
+                {
+                    "shopId": "S04",
+                    "flowerId": "FL17",
+                    "stock": "40"
+                },
+                {
+                    "shopId": "S05",
+                    "flowerId": "FL18",
+                    "stock": "90"
+                },
+                {
+                    "shopId": "S05",
+                    "flowerId": "FL19",
+                    "stock": "30"
+                },
+                {
+                    "shopId": "S05",
+                    "flowerId": "FL20",
+                    "stock": "15"
+                },
+                {
+                    "shopId": "S05",
+                    "flowerId": "FL01",
+                    "stock": "20"
+                }
+            ]
+        },
+        "Customers": {
+            "Customer": [
+                {
+                    "customerId": "C01",
+                    "name": "Alice Smith",
+                    "city": "London"
+                },
+                {
+                    "customerId": "C02",
+                    "name": "Bob Jones",
+                    "city": "London"
+                },
+                {
+                    "customerId": "C03",
+                    "name": "Charlie Brown",
+                    "city": "New York"
+                },
+                {
+                    "customerId": "C04",
+                    "name": "Diana Prince",
+                    "city": "New York"
+                },
+                {
+                    "customerId": "C05",
+                    "name": "Edward Norton",
+                    "city": "Tokyo"
+                },
+                {
+                    "customerId": "C06",
+                    "name": "Fiona Gallagher",
+                    "city": "Tokyo"
+                },
+                {
+                    "customerId": "C07",
+                    "name": "George Miller",
+                    "city": "Paris"
+                },
+                {
+                    "customerId": "C08",
+                    "name": "Hannah Abbott",
+                    "city": "Paris"
+                },
+                {
+                    "customerId": "C09",
+                    "name": "Ian Wright",
+                    "city": "Sydney"
+                },
+                {
+                    "customerId": "C10",
+                    "name": "Julia Roberts",
+                    "city": "Sydney"
+                },
+                {
+                    "customerId": "C11",
+                    "name": "Kevin Hart",
+                    "city": "Chicago"
+                },
+                {
+                    "customerId": "C12",
+                    "name": "Laura Palmer",
+                    "city": "Seattle"
+                }
+            ]
+        }
+    }
+}
