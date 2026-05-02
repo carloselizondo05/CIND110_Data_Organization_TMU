@@ -49,16 +49,14 @@ Reverse-engineered the existing FlowerDB schema in MySQL Workbench to produce a 
 <p align="center">
   <img src="./CIND110/CIND110%20A1/Database%20Schema.png" width="100%" alt="FlowerDB EER Diagram" />
   <br>
-  <em>Figure 1: FlowerDB EER Diagram — High-resolution view of table relationships and referential integrity.</em>
+  <em>Figure 1: FlowerDB EER Diagram — High-resolution view of table relationships.</em>
 </p>
 
-#### Text Analytics & Data Formats
+#### Text Analytics
 <p align="center">
-  <img src="./CIND110/CIND110%20A2/similarity_heatmap.png" width="48%" alt="NLP Similarity Heatmap" />
-  <img src="./CIND110/CIND110%20A2/xml_vs_json.png" width="48%" alt="XML vs JSON Data Structures" />
+  <img src="./CIND110/CIND110%20A2/similarity_heatmap.png" width="100%" alt="NLP Similarity Heatmap" />
   <br>
-  <em>Left: NLP Cosine Similarity Heatmap | Right: Multi-format Data Comparison (XML/JSON)</em>
-</p>
+  <em> NLP Cosine Similarity Heatmap </p>
 
 ## ⚠️ Limitations & Future Work
 
