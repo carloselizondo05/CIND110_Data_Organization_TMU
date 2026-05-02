@@ -17,7 +17,7 @@
 
 ---
 
-### [Assignment 2: Multi-Format Data Pipeline (XML, JSON & NLP)](./CIND110/CIND110 A2/Final_Report.docx)
+### [Assignment 2: Multi-Format Data Pipeline (XML, JSON & NLP)](./CIND110/CIND110%20A2/Final_Report.docx)
 ![Individual](https://img.shields.io/badge/type-Individual-1565c0)
 
 **Overview:** Designed and implemented an end-to-end data pipeline serving three distinct business teams — inventory operations, web development, and research analytics — using a self-constructed botanical dataset as the foundation. The pipeline spanned three data paradigms: hierarchical XML storage, document-based JSON modeling, and NLP-driven text mining.
