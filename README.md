@@ -40,7 +40,16 @@ Reverse-engineered the existing FlowerDB schema in MySQL Workbench to produce a 
 **Tech stack:** MySQL, MySQL Workbench, SQL (joins, aggregates, subqueries, HAVING clauses)
 
 **Key result:** Produced an end-to-end business intelligence report identifying high-value inventory and customer patterns, with actionable schema improvement recommendations for enterprise scalability.
+---
 
+### 📊 Technical Visuals
+
+<p align="center">
+  <img src="./CIND110/CIND110%20A1/Database%20Schema.png" width="48%" alt="Database Schema" />
+  <img src="./CIND110/CIND110%20A2/similarity_heatmap.png" width="48%" alt="NLP Similarity Heatmap" />
+  <br>
+  <em>Left: FlowerDB Relational Schema (EER Diagram) | Right: NLP Cosine Similarity Heatmap</em>
+</p>
 ---
 
 ## ⚠️ Limitations & Future Work
