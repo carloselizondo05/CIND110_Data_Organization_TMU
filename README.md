@@ -17,7 +17,7 @@
 
 ---
 
-### [Assignment 2: Multi-Format Data Pipeline (XML, JSON & NLP)](./CIND110/Assignment_2/)
+### [Assignment 2: Multi-Format Data Pipeline (XML, JSON & NLP)](./CIND110/CIND110 A2/Final_Report.docx)
 ![Individual](https://img.shields.io/badge/type-Individual-1565c0)
 
 **Overview:** Designed and implemented an end-to-end data pipeline serving three distinct business teams — inventory operations, web development, and research analytics — using a self-constructed botanical dataset as the foundation. The pipeline spanned three data paradigms: hierarchical XML storage, document-based JSON modeling, and NLP-driven text mining.
@@ -30,7 +30,7 @@ Built and queried a structured XML database in BaseX using XPath/XQuery to answe
 
 ---
 
-### [Assignment 1: Relational Database Engineering (FlowerDB)](./CIND110/Assignment_1/)
+### [Assignment 1: Relational Database Engineering (FlowerDB)](./CIND110/CIND110%20A1/Carlos_Elizondo_A1_PDF.pdf)
 ![Individual](https://img.shields.io/badge/type-Individual-1565c0)
 
 **Overview:** Acted as a data analyst on a cloud migration team for a scaling floral distribution company, transitioning operations from fragmented spreadsheets to a centralized relational database. The work spanned three phases: schema validation, SQL-driven business intelligence, and strategic retrospective.
