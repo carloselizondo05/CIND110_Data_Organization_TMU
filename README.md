@@ -1,26 +1,23 @@
 # CIND110 — Data Organization for Data Analysts
 **Toronto Metropolitan University** · Winter 2025
 
-> Covers the design, management, and querying of structured data systems — from relational databases to hierarchical formats and text-based analytics pipelines.
+> Covers the design, management, and querying of structured data systems—from relational databases to hierarchical formats and NLP-driven text analytics pipelines.
 
 ---
 
-## 📚 Assignments
-
-### Assignment 1: Relational Database Engineering & Business Intelligence for a Floral Distributor
-![Individual](https://img.shields.io/badge/type-Individual-1565c0)
-
-**Overview:** Acted as a data analyst on a cloud migration team for a scaling floral distribution company, transitioning operations from fragmented spreadsheets to a centralized relational database. The work spanned three phases: schema validation, SQL-driven business intelligence, and strategic retrospective.
-
-Reverse-engineered the existing FlowerDB schema in MySQL Workbench to produce a logical data model, verified referential integrity across six interrelated tables (Flowers, Families, Shops, Customers, Orders, Inventory), and documented how foreign key constraints prevent phantom data entries during rapid scaling. Developed and executed seven optimized SQL queries addressing real operational questions — including multi-location customer loyalty, inventory gap detection, and family-level stock aggregation — then translated each result into plain-language recommendations for non-technical stakeholders. Concluded with a formal strategic retrospective connecting query findings to the company's national expansion decisions.
-
-**Tech stack:** MySQL, MySQL Workbench, SQL (joins, aggregates, subqueries, HAVING clauses)
-
-**Key result:** Produced an end-to-end business intelligence report identifying high-value inventory and customer patterns, with actionable schema improvement recommendations for enterprise scalability.
+## 🛠 Skills & Tools
+**Database Management:** MySQL, MySQL Workbench, MongoDB, BaseX  
+**Languages & Querying:** SQL (Advanced Joins & Aggregates), XQuery/XPath, Python (NLTK, Scikit-learn)  
+**Data Formats:** Relational (SQL), Hierarchical (XML), Document-oriented (JSON), Unstructured Text  
+**Techniques:** Schema Validation, Referential Integrity, NLP Preprocessing, Cosine Similarity, Data Privacy Auditing
 
 ---
 
-### Assignment 2: Multi-Format Data Pipeline for a Botanical Research Consortium
+## 📂 Featured Projects
+
+---
+
+### [Assignment 2: Multi-Format Data Pipeline (XML, JSON & NLP)](./CIND110/Assignment_2/)
 ![Individual](https://img.shields.io/badge/type-Individual-1565c0)
 
 **Overview:** Designed and implemented an end-to-end data pipeline serving three distinct business teams — inventory operations, web development, and research analytics — using a self-constructed botanical dataset as the foundation. The pipeline spanned three data paradigms: hierarchical XML storage, document-based JSON modeling, and NLP-driven text mining.
@@ -30,6 +27,19 @@ Built and queried a structured XML database in BaseX using XPath/XQuery to answe
 **Tech stack:** XML/XQuery (BaseX), JSON, MongoDB, Python (NLTK, Scikit-learn), Jupyter Notebook
 
 **Key result:** Delivered a unified multi-format data system with parity across XML and JSON query outputs, and identified the most botanically similar plant families using cosine similarity scoring.
+
+---
+
+### [Assignment 1: Relational Database Engineering (FlowerDB)](./CIND110/Assignment_1/)
+![Individual](https://img.shields.io/badge/type-Individual-1565c0)
+
+**Overview:** Acted as a data analyst on a cloud migration team for a scaling floral distribution company, transitioning operations from fragmented spreadsheets to a centralized relational database. The work spanned three phases: schema validation, SQL-driven business intelligence, and strategic retrospective.
+
+Reverse-engineered the existing FlowerDB schema in MySQL Workbench to produce a logical data model, verified referential integrity across six interrelated tables (Flowers, Families, Shops, Customers, Orders, Inventory), and documented how foreign key constraints prevent phantom data entries during rapid scaling. Developed and executed seven optimized SQL queries addressing real operational questions — including multi-location customer loyalty, inventory gap detection, and family-level stock aggregation — then translated each result into plain-language recommendations for non-technical stakeholders. Concluded with a formal strategic retrospective connecting query findings to the company's national expansion decisions.
+
+**Tech stack:** MySQL, MySQL Workbench, SQL (joins, aggregates, subqueries, HAVING clauses)
+
+**Key result:** Produced an end-to-end business intelligence report identifying high-value inventory and customer patterns, with actionable schema improvement recommendations for enterprise scalability.
 
 ---
 
