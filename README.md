@@ -1,4 +1,8 @@
-# CIND110 — Data Organization for Data Analysts
+# Data Organization & Management Portfolio
+
+---
+
+## CIND110 — Data Organization for Data Analysts
 **Toronto Metropolitan University** · Winter 2025
 
 > Covers the design, management, and querying of structured data systems—from relational databases to hierarchical formats and NLP-driven text analytics pipelines.
@@ -56,7 +60,8 @@ Reverse-engineered the existing FlowerDB schema in MySQL Workbench to produce a 
 <p align="center">
   <img src="./CIND110/CIND110%20A2/similarity_heatmap.png" width="100%" alt="NLP Similarity Heatmap" />
   <br>
-  <em> NLP Cosine Similarity Heatmap </p>
+  <em> NLP Cosine Similarity Heatmap </em>
+</p>
 
 ## ⚠️ Limitations & Future Work
 
