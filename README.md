@@ -1,57 +1,48 @@
-# CIND110_-Data_Organization_TMU
-# [Project Title]
+# CIND110 — Data Organization for Data Analysts
+**Toronto Metropolitan University** · Winter 2025
 
-## 🫥 Executive Summary
-> *The elevator pitch: 2-3 sentences on what this project is and why it matters.*
-
----
-
-## 📝 Project Overview & Features
-**Main Task:** [State the primary problem this project solves.]
-
-**Core Features:**
-* **Feature 1:** [e.g., Automated data cleaning pipeline.]
-* **Feature 2:** [e.g., Predictive modeling using Random Forest.]
-* **Feature 3:** [e.g., Interactive Tableau dashboard for stakeholder review.]
+> Covers the design, management, and querying of structured data systems — from relational databases to hierarchical formats and text-based analytics pipelines.
 
 ---
 
-## ⛏️ Tech Stack & Resources
-* **Data Analytics:** [e.g., Python (Pandas, Scikit-Learn), SQL, R]
-* **Visualization:** [e.g., Tableau, Matplotlib, Power BI]
-* **APIs/Datasets:** [Link to the data source or mention the API used]
+## 📚 Assignments
+
+### Assignment 1: Relational Database Engineering & Business Intelligence for a Floral Distributor
+![Individual](https://img.shields.io/badge/type-Individual-1565c0)
+
+**Overview:** Acted as a data analyst on a cloud migration team for a scaling floral distribution company, transitioning operations from fragmented spreadsheets to a centralized relational database. The work spanned three phases: schema validation, SQL-driven business intelligence, and strategic retrospective.
+
+Reverse-engineered the existing FlowerDB schema in MySQL Workbench to produce a logical data model, verified referential integrity across six interrelated tables (Flowers, Families, Shops, Customers, Orders, Inventory), and documented how foreign key constraints prevent phantom data entries during rapid scaling. Developed and executed seven optimized SQL queries addressing real operational questions — including multi-location customer loyalty, inventory gap detection, and family-level stock aggregation — then translated each result into plain-language recommendations for non-technical stakeholders. Concluded with a formal strategic retrospective connecting query findings to the company's national expansion decisions.
+
+**Tech stack:** MySQL, MySQL Workbench, SQL (joins, aggregates, subqueries, HAVING clauses)
+
+**Key result:** Produced an end-to-end business intelligence report identifying high-value inventory and customer patterns, with actionable schema improvement recommendations for enterprise scalability.
 
 ---
 
-## 🧑‍💻 Getting Started
-**Setup Instructions:**
-1. Clone the repo: `git clone https://github.com/yourusername/reponame.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the analysis: `python main.py` or open `notebook.ipynb`
+### Assignment 2: Multi-Format Data Pipeline for a Botanical Research Consortium
+![Individual](https://img.shields.io/badge/type-Individual-1565c0)
+
+**Overview:** Designed and implemented an end-to-end data pipeline serving three distinct business teams — inventory operations, web development, and research analytics — using a self-constructed botanical dataset as the foundation. The pipeline spanned three data paradigms: hierarchical XML storage, document-based JSON modeling, and NLP-driven text mining.
+
+Built and queried a structured XML database in BaseX using XPath/XQuery to answer operational reporting questions such as seasonal stock availability and unstocked inventory. Migrated the schema to JSON and re-implemented equivalent queries in MongoDB, making explicit design decisions around embedding vs. referencing to optimize for the web team's read patterns. Developed a Python IR pipeline in Jupyter that extracted family descriptions, applied text preprocessing (stopword removal, lemmatization), constructed unigram and bigram term-document matrices, and used cosine similarity to surface relationships between plant families. Deliverables included a formal technical brief for each team justifying design decisions, a data privacy audit of customer fields, and a written self-assessment critiquing the pipeline's real-world limitations and ethical considerations.
+
+**Tech stack:** XML/XQuery (BaseX), JSON, MongoDB, Python (NLTK, Scikit-learn), Jupyter Notebook
+
+**Key result:** Delivered a unified multi-format data system with parity across XML and JSON query outputs, and identified the most botanically similar plant families using cosine similarity scoring.
 
 ---
 
-## 📊 Results & Recommendations
-> *Insert your key visual here to show the outcome.*
-![Key Result Visualization](./images/main_result.png)
+## ⚠️ Limitations & Future Work
 
-**Recommendations:**
-* [Actionable insight 1 based on your data.]
-* [Actionable insight 2 based on your data.]
-
----
-
-## ⚠️ Limitations & Future Development
-* **Limitations:** [Mention data biases, missing info, or scope constraints.]
-* **Future Work:** [New questions to explore or new methods to analyze.]
+- Both assignments use fictional datasets (FlowerDB / botanical consortium) designed to simulate business relationships — findings are illustrative rather than drawn from production data.
+- The IR pipeline's similarity results are sensitive to the corpus size; with only ~10 plant family descriptions, bigram analysis has limited discriminatory power.
+- Future work could extend the relational schema with time-series sales data to support demand forecasting alongside the existing inventory queries.
 
 ---
 
 ## 🤝 Contributing & License
-* **Contributions:** If you have suggestions or want to report an issue, please open a pull request or an issue ticket.
-* **License:** This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+Suggestions and feedback welcome — open an issue or pull request.
 
-## 📓 Development Process
-For the "behind-the-scenes" on decision-making, roadblocks, and methodology changes, see the [Development Journal](./DEVELOPMENT_JOURNAL.md).
+Licensed under the [MIT License](LICENSE).
